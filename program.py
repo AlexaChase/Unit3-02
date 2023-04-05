@@ -11,6 +11,5 @@ elif lengthA> 0:
             print("Error, number must be positive")
         elif lengthH> 0:
             AreaTrapezoid= lengthH * (lengthA + lengthB) /2
-        if AreaTrapezoid> 0:
             print("The area of the trapezoid:")
             print(AreaTrapezoid)
